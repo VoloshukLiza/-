@@ -1,0 +1,6 @@
+E:\2 курс\лабы тимп\GaluaLib\bin\Debug\GaluaLib.dll
+E:\2 курс\лабы тимп\GaluaLib\bin\Debug\GaluaLib.pdb
+E:\2 курс\лабы тимп\GaluaLib\obj\Debug\GaluaLib.csproj.CoreCompileInputs.cache
+E:\2 курс\лабы тимп\GaluaLib\obj\Debug\GaluaLib.dll
+E:\2 курс\лабы тимп\GaluaLib\obj\Debug\GaluaLib.pdb
+E:\2 курс\лабы тимп\GaluaLib\obj\Debug\GaluaLib.csproj.AssemblyReference.cache
